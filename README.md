@@ -2,7 +2,7 @@
 
 Note pour le lavage : quand le mot est utilisé, il inclut au sens large : ébarbage (s'il y a à ébarber), ébavurage(s'il y a à ébavurer), dégessage(s'il y a à dégraisser), retrait de matière oxydée et produits indésirables ou secondaire de réaction ainsi que des réactifs des réactions faites (si l'un ou plusieurs de ces éléments est/sont présent(s)) et nettoyage (systématique).
 
-##Process à la CNC :
+## Process à la CNC :
 Point de départ : plaques d'Époxy cuivrées
 
 1. - Perçage/fraisage des trous et vias (selon la taille) à la CNC
@@ -17,7 +17,7 @@ Point de départ : plaques d'Époxy cuivrées
 11.  - Lavage des zones non durcies
 12.  - Application du vernis de soudure antioxydation (à base de rosine (collophane), et éventiellement d'azoles), soit par un bain sur toute la carte, soit de maière locale
 
-##Process sans CNC :
+## Process sans CNC :
 Point de départ : plaques d'Époxy nues
 1. - Découpe des trous au laser
 2. - Lavage
@@ -34,7 +34,7 @@ Point de départ : plaques d'Époxy nues
 13.  - Lavage des zones non durcies
 14.  - Application du vernis de soudure antioxydation (à base de rosine (collophane), et éventiellement d'azoles), soit par un bain sur toute la carte, soit de maière locale
 
-##Process sans CNC alternatif :
+## Process sans CNC alternatif :
 Point de départ : plaques d'Époxy cuivrée
 1.  - Application du masque protecteur anti-perchlorate de fer (pour protéger les zones de cuivre devant rester dans le PCB final, de la corrosion) par bain. Les trous sont protégés aussi, recouverts par ce masque
 2. - Retraits du masque protecteur au niveau des trous où le cuivre doit être enlevé, par laser.
